@@ -1,0 +1,5 @@
+Actual Class,Predicted Class,Count
+Legitimate,Legitimate,56856
+Legitimate,Fraud,8
+Fraud,Legitimate,19
+Fraud,Fraud,79
